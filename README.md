@@ -1,4 +1,6 @@
-my dwm config: very similar to stock, just columns layout and a few other aesthetic additions:
+my dwm config:
+very similar to stock, just columns layout and a few other aesthetic additions:
+
 ![screenshot](screenshot.png)
 dwm - dynamic window manager
 ============================
